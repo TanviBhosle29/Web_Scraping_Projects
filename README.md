@@ -62,8 +62,8 @@ This project automates the extraction of tabular data from a complex web dashboa
 Install all with
 ```bash
 pip install -r requirements.txt
-.
 ---
+
 ## For Non-Experts 
 - You do **not** need to know Python to use this! Just install the requirements, edit the script for your website, and run it.
 - The script is heavily commented to help you understand or adapt it if needed.
