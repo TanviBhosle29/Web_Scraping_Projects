@@ -58,7 +58,6 @@ This project automates the extraction of tabular data from a complex web dashboa
 - pandas
 - openpyxl
 - xlsxwriter
-
 Install all with:
 ```bash
 pip install -r requirements.txt
